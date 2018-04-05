@@ -1,6 +1,6 @@
 # StarterTest36
 
-Put a one-line description of your project here.
+Put a one-line description of your project here. It is a good project.
 
 [![Travis CI](https://travis-ci.org/greg-1-anderson/starter-test-36.svg?branch=master)](https://travis-ci.org/greg-1-anderson/starter-test-36)
 [![Windows CI](https://ci.appveyor.com/api/projects/status/REPLACE_THIS?svg=true)](https://ci.appveyor.com/project/greg-1-anderson/starter-test-36)
